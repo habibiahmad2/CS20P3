@@ -20,7 +20,7 @@ public class RandomNumber
         // Create Random object
         Random rand = new Random();
         
-        // Generate a random integer between min and max (inclusive)
+        // Generate a random integer between min and max
         int randomNumber = rand.nextInt((max - min) + 1) + min;
         
         // Display the random number
