@@ -36,5 +36,10 @@ public class Excercise4 {
  
 Paste the output of your code here
 
+Enter a positive integer: 9834
+9
+8
+3
+4
  
  */
